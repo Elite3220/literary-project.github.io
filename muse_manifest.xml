@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://literaryproject.cf" resolutions="1x" timestamp="1525652477022">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://literaryproject.cf" resolutions="1x" timestamp="1525653213202">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="freudian.css" crc="426444834" ref="freudian"/>
@@ -22,7 +22,7 @@
     <file name="form-u2418.php" crc="4291154795" ref="contact"/>
   </folder>
   <folder name="images"/>
-  <file name="index.html" crc="262839553" seo="true" mt="1525573853541" redirect="true"/>
+  <file name="index.html" crc="4022708919" seo="true" mt="1525653166411" redirect="true"/>
   <file name="contact.html" crc="4243779899" seo="true" mt="1525574374393" redirect="true"/>
   <file name="feminist.html" crc="370822826" seo="true" mt="1525573315996" redirect="true"/>
   <file name="marxism.html" crc="86448351" seo="true" mt="1525573325027" redirect="true"/>
