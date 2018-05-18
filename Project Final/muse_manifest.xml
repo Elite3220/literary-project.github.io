@@ -1,0 +1,79 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://Elite3220.github.io" resolutions="1x" timestamp="1526621845025">
+  <folder name="css">
+    <file name="site_global.css" crc="459502613"/>
+    <file name="freudian.css" crc="399416104" ref="freudian"/>
+    <file name="index.css" crc="3856670729" ref="index"/>
+    <file name="post-colonial.css" crc="216487152" ref="post-colonial"/>
+    <file name="feminist.css" crc="326368171" ref="feminist"/>
+    <file name="marxism.css" crc="335238934" ref="marxism"/>
+    <file name="contact.css" crc="161723729" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:feminist:freudian:marxism:post-colonial"/>
+    <file name="museutils.js" crc="340535759" ref="index:contact:feminist:freudian:marxism:post-colonial"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:feminist:freudian:marxism:post-colonial"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:contact:feminist:freudian:marxism:post-colonial"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:contact:feminist:freudian:marxism:post-colonial"/>
+    <file name="require.js" crc="7928878" ref="index:contact:feminist:freudian:marxism:post-colonial"/>
+    <file name="webpro.js" crc="4059564322" ref="contact:feminist:marxism:post-colonial"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u2418.php" crc="4291154795" ref="contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="feminist:marxism:post-colonial"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="feminist:marxism:post-colonial"/>
+    <file name="touchswipe.js" crc="4075097462" ref="feminist:marxism:post-colonial"/>
+  </folder>
+  <folder name="images">
+    <file name="download (1).jpg" crc="4152379404" seo="true" ref="feminist">
+      <caption webpage="feminist" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="feminist:marxism:post-colonial"/>
+    <file name="download (2).jpg" crc="4242867509" seo="true" ref="feminist">
+      <caption webpage="feminist" alt=""/>
+    </file>
+    <file name="feminism-crop-u3969.jpg" crc="379392290" seo="true" ref="feminist">
+      <caption webpage="feminist" alt=""/>
+    </file>
+    <file name="feminist.jpg" crc="108442275" seo="true" ref="feminist">
+      <caption webpage="feminist" alt=""/>
+    </file>
+    <file name="images.jpg" crc="4058110612" seo="true" ref="feminist">
+      <caption webpage="feminist" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="feminist:marxism:post-colonial"/>
+    <file name="communism-crop-u3330.jpg" crc="3858630791" seo="true" ref="marxism">
+      <caption webpage="marxism" alt=""/>
+    </file>
+    <file name="marx.jpg" crc="3885143234" seo="true" ref="marxism">
+      <caption webpage="marxism" alt=""/>
+    </file>
+    <file name="social.jpg" crc="301600739" seo="true" ref="marxism">
+      <caption webpage="marxism" alt=""/>
+    </file>
+    <file name="uncle sam-crop-u3499.jpg" crc="3992003095" seo="true" ref="marxism">
+      <caption webpage="marxism" alt=""/>
+    </file>
+    <file name="aa-cover-70rdrdt1b5a9tr4ut9lnu63ur1-20180218031502medi-crop-u3676.jpg" crc="461278765" seo="true" ref="post-colonial">
+      <caption webpage="post-colonial" alt=""/>
+    </file>
+    <file name="afrca.jpg" crc="410213270" seo="true" ref="post-colonial">
+      <caption webpage="post-colonial" alt=""/>
+    </file>
+    <file name="africa-colonialism1-crop-u3716.jpg" crc="3872850134" seo="true" ref="post-colonial">
+      <caption webpage="post-colonial" alt=""/>
+    </file>
+    <file name="postcolonialism-crop-u3736.jpg" crc="4219268936" seo="true" ref="post-colonial">
+      <caption webpage="post-colonial" alt=""/>
+    </file>
+    <file name="postcolonialism-1-638-crop-u3756.jpg" crc="161271439" seo="true" ref="post-colonial">
+      <caption webpage="post-colonial" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="67480995" seo="true" mt="1526564910929" redirect="true"/>
+  <file name="contact.html" crc="3862013819" seo="true" mt="1526565024613" redirect="true"/>
+  <file name="feminist.html" crc="445023749" seo="true" mt="1526564887783" redirect="true"/>
+  <file name="freudian.html" crc="3799041626" seo="true" mt="1526565286382" redirect="true"/>
+  <file name="marxism.html" crc="3810100573" seo="true" mt="1526565610305" redirect="true"/>
+  <file name="post-colonial.html" crc="4122516094" seo="true" mt="1526565534299" redirect="true"/>
+</manifest>
